@@ -1,41 +1,34 @@
-<div align="center">
-
-# Hi there! 👋 I'm Tokesi Lukynawa
-
-<p>
-  <a href="https://www.linkedin.com/in/tokesilukynawa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tokesi%20Lukynawa-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tokesi246@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tokesi246%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tokesi-8">
-    <img src="https://img.shields.io/badge/GitHub-tokesi--8-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500"/>
 </p>
 
-</div>
+<h1 align="center">Hi there 👋, I'm Tokesi Lukynawa!</h1>
+
+<p align="center">
+  🎓 Data Science Student at BINUS University
+  <br>
+  📊 Data Science | Data Analyst | 🤖 Machine Learning | 📈 Business Intelligence
+</p>
 
 ---
 
-## 📌 About Me
+## 🧑‍💻 About Me
 
-- 🎓 Currently pursuing a **Bachelor's Degree in Data Science at Bina Nusantara University**
-- 📊 Interested in **Data Science, Machine Learning, Data Analysis, and Artificial Intelligence**
-- 🤖 Experienced in developing **Machine Learning models and data analysis projects**
-- 🌱 Currently learning more about **Deep Learning, Data Engineering, and MLOps**
+Data Science student at Bina Nusantara (BINUS) University with a current GPA of 3.63/4.00. Interested in Data Science, Data Analysis, Business Intelligence, Machine Learning, and Artificial Intelligence. Experienced in data preprocessing, exploratory data analysis, data visualization, machine learning model development, and model deployment. Hands-on experience working with Python, SQL, R, Scikit-learn, TensorFlow, PyTorch, and AWS. Currently exploring machine learning deployment, cloud computing, data engineering, and MLOps.
+
+Feel free to reach me through e-mail: tokesi246@gmail.com
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,r,html,css,js,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,c,r,mysql" />
 </p>
 
-### Data Science, Machine Learning & Cloud
+### 📊 Data Science, Machine Learning & Cloud
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker" />
@@ -48,48 +41,71 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,anaconda,jupyter,git" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 </p>
-
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tokesilukynawa/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tokesi-8">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:tokesi246@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
-<div align="center">
+## 📌 Featured Projects
 
-### 💡 Turning Data into Insights and Models into Solutions.
+### 💳 Credit Risk Prediction & ML Model Deployment
 
-⭐ Feel free to explore my repositories!
+Built an end-to-end credit score classification system using 25,000 records and 21 features. Performed data preprocessing and feature engineering before comparing multiple Machine Learning models. LightGBM achieved a 69.97% Macro F1 and 71.84% accuracy. Deployed the trained model through an Amazon SageMaker real-time endpoint and hosted a Streamlit application on Amazon EC2 to collect user inputs and display prediction results.
 
-</div>
+**Tech:** Python, Scikit-learn, LightGBM, Streamlit, AWS SageMaker, AWS EC2
+
+### 📊 E-Commerce Data Analysis & RFM Customer Segmentation
+
+Analyzed 99,441 Brazilian e-commerce orders from 2017–2018 through data cleaning, exploratory data analysis, and visualization. Performed RFM customer segmentation on 95,770 unique customers and analyzed approximately R$15.95M in revenue. Built an interactive Streamlit dashboard to communicate customer segmentation, revenue, and delivery performance insights.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+
+### 📈 GOOGL & INTC Stock Price Prediction using LSTM
+
+Developed LSTM models to forecast next-day closing prices for GOOGL and INTC using more than 14,000 trading days. Implemented a time-series pipeline using RobustScaler, 5-day sliding windows, and chronological train/validation/test splits. Improved the GOOGL model using Dropout and ReduceLROnPlateau, reducing RMSE by 17.8% and MAPE by 25.3%.
+
+**Tech:** Python, TensorFlow, Keras, Scikit-learn, LSTM
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working and learning on **Data Science and Machine Learning projects**
+- 📊 Exploring **Data Analytics and Business Intelligence**
+- ☁️ Learning **AWS-based Machine Learning Deployment**
+- 🏗️ Exploring **Data Engineering and MLOps**
+- 🤝 Open to collaboration on **Data Science and Machine Learning projects**
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tokesilukynawa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tokesi-8">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:tokesi246@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects!
+</p>
