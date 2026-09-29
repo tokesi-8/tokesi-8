@@ -65,27 +65,6 @@
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 </p>
 
----
-
-## 📜 Certifications
-
-- ☁️ **Machine Learning Foundations** — AWS Academy
-- ☁️ **Cloud Architecting** — AWS Academy
-- 📊 **Data Analysis Fundamental** — Dicoding
-- 🏆 **Data Science Competition Participant** — DSC MCF ITB 2026
-
----
-
-## 🌱 What I'm Learning Now
-
-- 🤖 **Machine Learning & Deep Learning**
-- 📊 **Advanced Data Analysis & Statistics**
-- ☁️ **Machine Learning Deployment on AWS**
-- 🏗️ **Data Engineering & Data Pipelines**
-- 🚀 **MLOps and Model Lifecycle Management**
-- 🧠 **Artificial Intelligence**
-
----
 
 ## 🤝 Let's Connect
 
