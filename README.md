@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdrODBubzFzNHIxdmhxeWdnNHF1aXZkdXE4cnpibjEyeHBodW4xMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="500"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Tokesi Lukynawa!</h1>
@@ -46,7 +47,8 @@ Feel free to reach me through e-mail: tokesi246@gmail.com
 ### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,anaconda,jupyter,git" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,anaconda,git" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48"/>
 </p>
 
 <p align="left">
@@ -57,7 +59,6 @@ Feel free to reach me through e-mail: tokesi246@gmail.com
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 </p>
-
 ---
 
 ## 📌 Featured Projects
