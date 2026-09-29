@@ -23,7 +23,6 @@
 ## 📌 About Me
 
 - 🎓 Currently pursuing a **Bachelor's Degree in Data Science at Bina Nusantara University**
-- 📈 Current GPA: **3.63 / 4.00**
 - 📊 Interested in **Data Science, Machine Learning, Data Analysis, and Artificial Intelligence**
 - 🤖 Experienced in developing **Machine Learning models and data analysis projects**
 - ☁️ Exploring **Machine Learning Deployment and Cloud Computing with AWS**
