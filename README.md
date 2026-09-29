@@ -8,6 +8,7 @@
 <p align="center">
   🎓 Data Science Student at BINUS University
   <br>
+    📊 Data Science |📈 Data Analyst | 💼 Business Intelligence
 </p>
 
 ---
