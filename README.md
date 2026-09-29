@@ -2,8 +2,6 @@
 
 # Hi there! 👋 I'm Tokesi Lukynawa
 
-### 🎓 Data Science Student | 📊 Data Science | 🤖 Machine Learning
-
 <p>
   <a href="https://www.linkedin.com/in/tokesilukynawa/">
     <img src="https://img.shields.io/badge/LinkedIn-Tokesi%20Lukynawa-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
