@@ -23,8 +23,6 @@
 - 🎓 Currently pursuing a **Bachelor's Degree in Data Science at Bina Nusantara University**
 - 📊 Interested in **Data Science, Machine Learning, Data Analysis, and Artificial Intelligence**
 - 🤖 Experienced in developing **Machine Learning models and data analysis projects**
-- ☁️ Exploring **Machine Learning Deployment and Cloud Computing with AWS**
-- 🐍 Mainly working with **Python, SQL, and R**
 - 🌱 Currently learning more about **Deep Learning, Data Engineering, and MLOps**
 
 ---
