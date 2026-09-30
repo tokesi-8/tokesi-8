@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-Data Science student at Bina Nusantara (BINUS) University with a current GPA of 3.63/4.00. Interested in Data Science, Data Analysis, Business Intelligence, Machine Learning, and Artificial Intelligence. Experienced in data preprocessing, exploratory data analysis, data visualization, machine learning model development, and model deployment. Hands-on experience working with Python, SQL, R, Scikit-learn, TensorFlow, PyTorch, and AWS. Currently exploring machine learning deployment, cloud computing, data engineering, and MLOps.
+Data Science student at Bina Nusantara (BINUS) University. Interested in Data Science, Data Analysis, Business Intelligence, Machine Learning, and Artificial Intelligence. Experienced in data preprocessing, exploratory data analysis, data visualization, machine learning model development, and model deployment. Hands-on experience working with Python, SQL, R, Scikit-learn, TensorFlow, PyTorch, and AWS. Currently exploring machine learning deployment, cloud computing, data engineering, and MLOps.
 
 Feel free to reach me through e-mail: tokesi246@gmail.com
 
